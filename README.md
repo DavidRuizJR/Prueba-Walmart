@@ -11,7 +11,12 @@ Incluye la carga de datos desde CSVs a PostgreSQL, consultas SQL para análisis 
 - `ejercicios.py` → Script que realiza los ejercicios solicitados:
   1. Calificaciones más altas y comparación con promedio.
   2. Porcentaje de avance de créditos y generación de top/bottom 10.
-- `asignatura.csv`, `estudiante.csv`, `inscripcion.csv` → Archivos de entrada.
+- `csv/` → Carpeta con los CSVs de entrada: `asignatura.csv`, `estudiante.csv`, `inscripcion.csv`.
+- `csv_salida/` → Carpeta donde se generarán los CSVs de salida:
+  - `alumnos_mayor_promedio.csv`
+  - `top10_avance_creditos.csv`
+  - `bottom10_avance_creditos.csv`
+- `Preguntas prueba técnica.docx` → Archivo con las preguntas de la prueba técnica.
 - `requirements.txt` → Dependencias de Python.
 - `.gitignore` → Ignora archivos temporales y entorno virtual.
 - `Dockerfile` o `docker-compose.yml` → Opcional, para levantar PostgreSQL fácilmente.
