@@ -8,4 +8,7 @@ __pycache__/
 # Entorno virtual
 env/
 
+# Mac/Linux
+.DS_Store
+
 
