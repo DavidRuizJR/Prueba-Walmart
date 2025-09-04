@@ -1,11 +1,11 @@
-nombre_alumno
-Kike Vicens Bou
-Rosalva Vargas
-Nico Verdugo Blanes
-Jorge Jimenez Palma
-David Romero Mendoza
-Alberto Herrera Cortez
-Diego Luz Alvares
-Vania Castellanos Juarez
-Karina Matamoroz
-Alexdr Nikolenko
+nombre_alumno,total_materias_cursadas,total_materias,porcentaje_avance,bandera_clasificacion
+Kike Vicens Bou,40,51,78.43,3
+Rosalva Vargas,39,51,76.47,3
+Nico Verdugo Blanes,39,51,76.47,3
+Jorge Jimenez Palma,38,51,74.51,3
+David Romero Mendoza,38,51,74.51,3
+Alberto Herrera Cortez,38,51,74.51,3
+Diego Luz Alvares,38,51,74.51,3
+Vania Castellanos Juarez,38,51,74.51,3
+Karina Matamoroz,38,51,74.51,3
+Alexdr Nikolenko,38,51,74.51,3

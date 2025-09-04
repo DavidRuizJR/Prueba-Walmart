@@ -1,11 +1,11 @@
-nombre_alumno
-Juliana Jodar
-Juan Jose Ballesteros Aguirre
-Adelina Garcia Sanchez
-Calisto Bolanos Bravo
-Eugenio Galan Giron
-Hugo Martinez Martinez
-Alexandra Navarrete Ramirez
-Lupita de Esteban
-Paulina Arino Portillo
-Rafael Alejandro Ramirez Contreras
+nombre_alumno,total_materias_cursadas,total_materias,porcentaje_avance,bandera_clasificacion
+Juliana Jodar,5,51,9.8,1
+Juan Jose Ballesteros Aguirre,10,51,19.61,1
+Adelina Garcia Sanchez,10,51,19.61,1
+Calisto Bolanos Bravo,15,51,29.41,1
+Eugenio Galan Giron,15,51,29.41,1
+Hugo Martinez Martinez,15,51,29.41,1
+Alexandra Navarrete Ramirez,26,51,50.98,2
+Lupita de Esteban,26,51,50.98,2
+Paulina Arino Portillo,26,51,50.98,2
+Rafael Alejandro Ramirez Contreras,26,51,50.98,2

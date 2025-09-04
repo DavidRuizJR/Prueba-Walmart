@@ -42,14 +42,14 @@ def ejercicio2():
     logging.info("Ejecutando Ejercicio 2...")
     query2 = text("""
     WITH conteo AS (
-    SELECT 
-        e.numero_cuenta,
-        e.nombre AS nombre_alumno,
-        COUNT(DISTINCT i.asignatura_id) AS total_materias_cursadas,
-        (SELECT COUNT(*) FROM asignatura) AS total_materias
-    FROM estudiante e
-    LEFT JOIN inscripcion i ON e.numero_cuenta = i.num_cuenta
-    GROUP BY e.numero_cuenta, e.nombre
+        SELECT 
+            e.numero_cuenta,
+            e.nombre AS nombre_alumno,
+            COUNT(DISTINCT i.asignatura_id) AS total_materias_cursadas,
+            (SELECT COUNT(*) FROM asignatura) AS total_materias
+        FROM estudiante e
+        LEFT JOIN inscripcion i ON e.numero_cuenta = i.num_cuenta
+        GROUP BY e.numero_cuenta, e.nombre
     )
     SELECT
         nombre_alumno,
@@ -65,14 +65,14 @@ def ejercicio2():
         END AS bandera_clasificacion
     FROM conteo
     ORDER BY porcentaje_avance DESC
-    """)
+        """)
     df2 = pd.read_sql(query2, engine)
 
     # Top 10 (mayor avance)
-    top10 = df2.nlargest(10, "porcentaje_avance")[["nombre_alumno"]]
+    top10 = df2.nlargest(10, "porcentaje_avance")
 
     # Bottom 10 (menor avance)
-    bottom10 = df2.nsmallest(10, "porcentaje_avance")[["nombre_alumno"]]
+    bottom10 = df2.nsmallest(10, "porcentaje_avance")
 
     top10.to_csv("csv_salida/top10_avance_creditos.csv", index=False, encoding="utf-8")
     bottom10.to_csv("csv_salida/bottom10_avance_creditos.csv", index=False, encoding="utf-8")
