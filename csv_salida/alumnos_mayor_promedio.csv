@@ -1,0 +1,459 @@
+nombre_alumno,nombre_materia,calificacion,calificacion_promedio,bandera1
+Vania Castellanos Juarez,Administracion de Proyectos,10.0,7.15,1
+Nico Verdugo Blanes,Administracion de Proyectos,9.0,7.15,1
+David Romero Mendoza,Administracion de Proyectos,9.0,7.15,1
+Alberto Herrera Cortez,Administracion de Proyectos,8.0,7.15,1
+Kike Vicens Bou,Administracion de Proyectos,8.0,7.15,1
+Fanny Rojas Tello,Algebra ,10.0,7.68,1
+Carlos Juarez David,Algebra ,10.0,7.68,1
+Karina Matamoroz,Algebra ,10.0,7.68,1
+Javier Cruz Rojas,Algebra ,10.0,7.68,1
+Rafael Alejandro Ramirez Contreras,Algebra ,9.0,7.68,1
+Alberto Herrera Cortez,Algebra ,9.0,7.68,1
+Lupita de Esteban,Algebra ,9.0,7.68,1
+Diego Luz Alvares,Algebra ,9.0,7.68,1
+Ruben Arturo Hernandez Rosas,Algebra ,9.0,7.68,1
+Maria Barriga Sandoval,Algebra ,9.0,7.68,1
+Adelina Garcia Sanchez,Algebra ,8.0,7.68,1
+Nico Verdugo Blanes,Algebra ,8.0,7.68,1
+Alexdr Nikolenko,Algebra ,8.0,7.68,1
+Jorge Jimenez Palma,Algebra ,8.0,7.68,1
+Daiara Saldana,Algebra ,8.0,7.68,1
+David Romero Mendoza,Algebra ,8.0,7.68,1
+Christian Oliva Jimenez,Algebra ,8.0,7.68,1
+Juliana Jodar,Algebra ,8.0,7.68,1
+Wilfredo Corominas Zabala,Algebra ,8.0,7.68,1
+Diego Luz Alvares,Algebra Lineal ,10.0,7.47,1
+Paulina Arino Portillo,Algebra Lineal ,10.0,7.47,1
+Carlos Juarez David,Algebra Lineal ,10.0,7.47,1
+Hugo Martinez Martinez,Algebra Lineal ,10.0,7.47,1
+Javier Aguirre Cruz,Algebra Lineal ,10.0,7.47,1
+Ruben Arturo Hernandez Rosas,Algebra Lineal ,10.0,7.47,1
+Fanny Rojas Tello,Algebra Lineal ,10.0,7.47,1
+Jorge Jimenez Palma,Algebra Lineal ,9.0,7.47,1
+Anastasia Cruz Salazar,Algebra Lineal ,9.0,7.47,1
+Vania Castellanos Juarez,Algebra Lineal ,8.0,7.47,1
+Kike Vicens Bou,Algebra Lineal ,8.0,7.47,1
+Juan Jose Ballesteros Aguirre,Algebra Lineal ,8.0,7.47,1
+Alexdr Nikolenko,Algebra Lineal ,8.0,7.47,1
+Javier Aguirre Cruz,Algoritmos y Estructuras de Datos,10.0,7.72,1
+Fanny Rojas Tello,Algoritmos y Estructuras de Datos,10.0,7.72,1
+Alexandra Navarrete Ramirez,Algoritmos y Estructuras de Datos,10.0,7.72,1
+Karina Matamoroz,Algoritmos y Estructuras de Datos,10.0,7.72,1
+Rosalva Vargas,Algoritmos y Estructuras de Datos,10.0,7.72,1
+Lupita de Esteban,Algoritmos y Estructuras de Datos,9.0,7.72,1
+David Romero Mendoza,Algoritmos y Estructuras de Datos,9.0,7.72,1
+Maria Barriga Sandoval,Algoritmos y Estructuras de Datos,9.0,7.72,1
+Christian Oliva Jimenez,Algoritmos y Estructuras de Datos,9.0,7.72,1
+Rafael Alejandro Ramirez Contreras,Algoritmos y Estructuras de Datos,9.0,7.72,1
+Dalila Sanmiguel Pedrosa,Algoritmos y Estructuras de Datos,8.0,7.72,1
+Javier Cruz Rojas,Algoritmos y Estructuras de Datos,8.0,7.72,1
+Alexandra Navarrete Ramirez,Analisis de Sistemas y Senales,10.0,7.32,1
+Diego Luz Alvares,Analisis de Sistemas y Senales,10.0,7.32,1
+Javier Aguirre Cruz,Analisis de Sistemas y Senales,10.0,7.32,1
+Paulina Arino Portillo,Analisis de Sistemas y Senales,9.0,7.32,1
+Alberto Herrera Cortez,Analisis de Sistemas y Senales,9.0,7.32,1
+Vania Castellanos Juarez,Analisis de Sistemas y Senales,9.0,7.32,1
+Alexdr Nikolenko,Analisis de Sistemas y Senales,9.0,7.32,1
+Jorge Jimenez Palma,Analisis de Sistemas y Senales,8.0,7.32,1
+Anastasia Cruz Salazar,Analisis de Sistemas y Senales,8.0,7.32,1
+Karina Matamoroz,Analisis de Sistemas y Senales,8.0,7.32,1
+Daiara Saldana,Analisis de Sistemas y Senales,8.0,7.32,1
+Carlos Juarez David,Analisis de Sistemas y Senales,8.0,7.32,1
+Vania Castellanos Juarez,Arquitectura de Computadoras,10.0,7.63,1
+Alexdr Nikolenko,Arquitectura de Computadoras,9.0,7.63,1
+Jorge Jimenez Palma,Arquitectura de Computadoras,8.0,7.63,1
+Karina Matamoroz,Arquitectura de Computadoras,8.0,7.63,1
+Diego Luz Alvares,Arquitectura de Computadoras,8.0,7.63,1
+Nico Verdugo Blanes,Bases de Datos ,10.0,7.92,1
+Rosalva Vargas,Bases de Datos ,10.0,7.92,1
+Daiara Saldana,Bases de Datos ,10.0,7.92,1
+Alberto Herrera Cortez,Bases de Datos ,9.0,7.92,1
+Diego Luz Alvares,Bases de Datos ,9.0,7.92,1
+Dalila Sanmiguel Pedrosa,Bases de Datos ,8.0,7.92,1
+Alexdr Nikolenko,Bases de Datos ,8.0,7.92,1
+Anastasia Cruz Salazar,Bases de Datos ,8.0,7.92,1
+Kike Vicens Bou,Bases de Datos Avanzadas,9.0,7.0,1
+Rosalva Vargas,Bases de Datos Espaciales,9.0,7.33,1
+Paulina Arino Portillo,Calculo Diferencial,10.0,7.52,1
+Kike Vicens Bou,Calculo Diferencial,10.0,7.52,1
+Javier Aguirre Cruz,Calculo Diferencial,10.0,7.52,1
+Alexdr Nikolenko,Calculo Diferencial,10.0,7.52,1
+Anastasia Cruz Salazar,Calculo Diferencial,10.0,7.52,1
+Daiara Saldana,Calculo Diferencial,9.0,7.52,1
+Maria Barriga Sandoval,Calculo Diferencial,9.0,7.52,1
+Juliana Jodar,Calculo Diferencial,9.0,7.52,1
+Diego Luz Alvares,Calculo Diferencial,9.0,7.52,1
+Fanny Rojas Tello,Calculo Diferencial,9.0,7.52,1
+Adelina Garcia Sanchez,Calculo Diferencial,8.0,7.52,1
+Alexandra Navarrete Ramirez,Calculo Diferencial,8.0,7.52,1
+Carlos Juarez David,Calculo Diferencial,8.0,7.52,1
+Rafael Alejandro Ramirez Contreras,Calculo Diferencial,8.0,7.52,1
+David Romero Mendoza,Calculo Diferencial,8.0,7.52,1
+Eugenio Galan Giron,Calculo Diferencial,8.0,7.52,1
+Jorge Jimenez Palma,Calculo Integral,10.0,7.43,1
+Karina Matamoroz,Calculo Integral,10.0,7.43,1
+Diego Luz Alvares,Calculo Integral,10.0,7.43,1
+Calisto Bolanos Bravo,Calculo Integral,10.0,7.43,1
+Adelina Garcia Sanchez,Calculo Integral,10.0,7.43,1
+Alexdr Nikolenko,Calculo Integral,9.0,7.43,1
+Ruben Arturo Hernandez Rosas,Calculo Integral,9.0,7.43,1
+Javier Aguirre Cruz,Calculo Integral,9.0,7.43,1
+Paulina Arino Portillo,Calculo Integral,9.0,7.43,1
+Vania Castellanos Juarez,Calculo Integral,9.0,7.43,1
+Anastasia Cruz Salazar,Calculo Integral,8.0,7.43,1
+Maria Barriga Sandoval,Calculo Integral,8.0,7.43,1
+Kike Vicens Bou,Calculo Integral,8.0,7.43,1
+Maria Barriga Sandoval,Calculo Vectorial,10.0,7.04,1
+Hugo Martinez Martinez,Calculo Vectorial,10.0,7.04,1
+Rafael Alejandro Ramirez Contreras,Calculo Vectorial,10.0,7.04,1
+Diego Luz Alvares,Calculo Vectorial,10.0,7.04,1
+David Romero Mendoza,Calculo Vectorial,9.0,7.04,1
+Anastasia Cruz Salazar,Calculo Vectorial,9.0,7.04,1
+Fanny Rojas Tello,Calculo Vectorial,9.0,7.04,1
+Vania Castellanos Juarez,Calculo Vectorial,8.0,7.04,1
+Dalila Sanmiguel Pedrosa,Calculo Vectorial,8.0,7.04,1
+David Romero Mendoza,Cinematica y Dinamica,10.0,7.32,1
+Christian Oliva Jimenez,Cinematica y Dinamica,10.0,7.32,1
+Alexdr Nikolenko,Cinematica y Dinamica,10.0,7.32,1
+Anastasia Cruz Salazar,Cinematica y Dinamica,10.0,7.32,1
+Daiara Saldana,Cinematica y Dinamica,9.0,7.32,1
+Rosalva Vargas,Cinematica y Dinamica,9.0,7.32,1
+Nico Verdugo Blanes,Cinematica y Dinamica,9.0,7.32,1
+Ruben Arturo Hernandez Rosas,Cinematica y Dinamica,9.0,7.32,1
+Carlos Juarez David,Cinematica y Dinamica,9.0,7.32,1
+Javier Aguirre Cruz,Cinematica y Dinamica,9.0,7.32,1
+Calisto Bolanos Bravo,Cinematica y Dinamica,8.0,7.32,1
+Eugenio Galan Giron,Cinematica y Dinamica,8.0,7.32,1
+David Romero Mendoza,Circuitos Electricos,10.0,7.56,1
+Ruben Arturo Hernandez Rosas,Circuitos Electricos,10.0,7.56,1
+Dalila Sanmiguel Pedrosa,Circuitos Electricos,10.0,7.56,1
+Paulina Arino Portillo,Circuitos Electricos,10.0,7.56,1
+Rafael Alejandro Ramirez Contreras,Circuitos Electricos,10.0,7.56,1
+Diego Luz Alvares,Circuitos Electricos,9.0,7.56,1
+Vania Castellanos Juarez,Circuitos Electricos,9.0,7.56,1
+Lupita de Esteban,Circuitos Electricos,9.0,7.56,1
+Javier Cruz Rojas,Circuitos Electricos,9.0,7.56,1
+Anastasia Cruz Salazar,Circuitos Electricos,9.0,7.56,1
+Nico Verdugo Blanes,Circuitos Electricos,8.0,7.56,1
+Christian Oliva Jimenez,Circuitos Electricos,8.0,7.56,1
+Rosalva Vargas,Compiladores,10.0,8.15,1
+Dalila Sanmiguel Pedrosa,Compiladores,10.0,8.15,1
+Kike Vicens Bou,Compiladores,9.0,8.15,1
+Nico Verdugo Blanes,Compiladores,9.0,8.15,1
+Alexdr Nikolenko,Compiladores,9.0,8.15,1
+Daiara Saldana,Compiladores,9.0,8.15,1
+Vania Castellanos Juarez,Compiladores,9.0,8.15,1
+Rosalva Vargas,Computacion Grafica,10.0,7.62,1
+Anastasia Cruz Salazar,Computacion Grafica,9.0,7.62,1
+Daiara Saldana,Computacion Grafica,9.0,7.62,1
+Nico Verdugo Blanes,Computacion Grafica,9.0,7.62,1
+Kike Vicens Bou,Computacion Grafica,8.0,7.62,1
+Alexdr Nikolenko,Computacion Grafica,8.0,7.62,1
+David Romero Mendoza,Computacion Grafica,8.0,7.62,1
+Maria Barriga Sandoval,Computacion para Ingenierios,10.0,6.97,1
+Wilfredo Corominas Zabala,Computacion para Ingenierios,9.0,6.97,1
+Alexdr Nikolenko,Computacion para Ingenierios,9.0,6.97,1
+Alberto Herrera Cortez,Computacion para Ingenierios,9.0,6.97,1
+Lupita de Esteban,Computacion para Ingenierios,9.0,6.97,1
+Calisto Bolanos Bravo,Computacion para Ingenierios,9.0,6.97,1
+Hugo Martinez Martinez,Computacion para Ingenierios,8.0,6.97,1
+Adelina Garcia Sanchez,Computacion para Ingenierios,8.0,6.97,1
+Juan Jose Ballesteros Aguirre,Computacion para Ingenierios,8.0,6.97,1
+Eugenio Galan Giron,Computacion para Ingenierios,8.0,6.97,1
+Jorge Jimenez Palma,Computacion para Ingenierios,8.0,6.97,1
+Daiara Saldana,Computacion para Ingenierios,8.0,6.97,1
+Fanny Rojas Tello,Computacion para Ingenierios,8.0,6.97,1
+Paulina Arino Portillo,Computacion para Ingenierios,7.0,6.97,1
+Kike Vicens Bou,Computacion para Ingenierios,7.0,6.97,1
+Javier Aguirre Cruz,Computacion para Ingenierios,7.0,6.97,1
+Rafael Alejandro Ramirez Contreras,Computacion para Ingenierios,7.0,6.97,1
+David Romero Mendoza,Cultura y Comunicacion,10.0,7.68,1
+Maria Barriga Sandoval,Cultura y Comunicacion,10.0,7.68,1
+Hugo Martinez Martinez,Cultura y Comunicacion,10.0,7.68,1
+Calisto Bolanos Bravo,Cultura y Comunicacion,10.0,7.68,1
+Paulina Arino Portillo,Cultura y Comunicacion,10.0,7.68,1
+Alexdr Nikolenko,Cultura y Comunicacion,9.0,7.68,1
+Carlos Juarez David,Cultura y Comunicacion,9.0,7.68,1
+Adelina Garcia Sanchez,Cultura y Comunicacion,9.0,7.68,1
+Karina Matamoroz,Cultura y Comunicacion,9.0,7.68,1
+Anastasia Cruz Salazar,Cultura y Comunicacion,9.0,7.68,1
+Wilfredo Corominas Zabala,Cultura y Comunicacion,9.0,7.68,1
+Javier Aguirre Cruz,Cultura y Comunicacion,9.0,7.68,1
+Kike Vicens Bou,Cultura y Comunicacion,8.0,7.68,1
+Diego Luz Alvares,Cultura y Comunicacion,8.0,7.68,1
+Vania Castellanos Juarez,Cultura y Comunicacion,8.0,7.68,1
+Dalila Sanmiguel Pedrosa,Cultura y Comunicacion,8.0,7.68,1
+Nico Verdugo Blanes,Diseno de Sistemas Digitales,10.0,7.76,1
+Wilfredo Corominas Zabala,Diseno de Sistemas Digitales,10.0,7.76,1
+David Romero Mendoza,Diseno de Sistemas Digitales,10.0,7.76,1
+Fanny Rojas Tello,Diseno de Sistemas Digitales,10.0,7.76,1
+Javier Aguirre Cruz,Diseno de Sistemas Digitales,10.0,7.76,1
+Daiara Saldana,Diseno de Sistemas Digitales,9.0,7.76,1
+Lupita de Esteban,Diseno de Sistemas Digitales,9.0,7.76,1
+Alberto Herrera Cortez,Diseno de Sistemas Digitales,9.0,7.76,1
+Kike Vicens Bou,Diseno de Sistemas Digitales,9.0,7.76,1
+Anastasia Cruz Salazar,Diseno de Sistemas Digitales,9.0,7.76,1
+Dalila Sanmiguel Pedrosa,Diseno de Sistemas Digitales,8.0,7.76,1
+Jorge Jimenez Palma,Diseno de Sistemas Digitales,8.0,7.76,1
+Rafael Alejandro Ramirez Contreras,Diseno de Sistemas Digitales,8.0,7.76,1
+Ruben Arturo Hernandez Rosas,Diseno de Sistemas Digitales,8.0,7.76,1
+Diego Luz Alvares,Diseno de Sistemas Digitales,8.0,7.76,1
+Kike Vicens Bou,Dispositivos y Circuitos Electricos,10.0,7.55,1
+Maria Barriga Sandoval,Dispositivos y Circuitos Electricos,10.0,7.55,1
+Alexdr Nikolenko,Dispositivos y Circuitos Electricos,10.0,7.55,1
+David Romero Mendoza,Dispositivos y Circuitos Electricos,10.0,7.55,1
+Dalila Sanmiguel Pedrosa,Dispositivos y Circuitos Electricos,9.0,7.55,1
+Vania Castellanos Juarez,Dispositivos y Circuitos Electricos,9.0,7.55,1
+Rosalva Vargas,Dispositivos y Circuitos Electricos,8.0,7.55,1
+Alberto Herrera Cortez,Dispositivos y Circuitos Electricos,8.0,7.55,1
+Karina Matamoroz,Dispositivos y Circuitos Electricos,8.0,7.55,1
+Ruben Arturo Hernandez Rosas,Dispositivos y Circuitos Electricos,8.0,7.55,1
+Alexandra Navarrete Ramirez,Ecuaciones Diferenciales,10.0,7.36,1
+Nico Verdugo Blanes,Ecuaciones Diferenciales,10.0,7.36,1
+Javier Cruz Rojas,Ecuaciones Diferenciales,9.0,7.36,1
+Eugenio Galan Giron,Ecuaciones Diferenciales,9.0,7.36,1
+Lupita de Esteban,Ecuaciones Diferenciales,9.0,7.36,1
+Karina Matamoroz,Ecuaciones Diferenciales,9.0,7.36,1
+Daiara Saldana,Ecuaciones Diferenciales,9.0,7.36,1
+Fanny Rojas Tello,Ecuaciones Diferenciales,9.0,7.36,1
+Kike Vicens Bou,Ecuaciones Diferenciales,8.0,7.36,1
+Alberto Herrera Cortez,Ecuaciones Diferenciales,8.0,7.36,1
+Vania Castellanos Juarez,Ecuaciones Diferenciales,8.0,7.36,1
+Hugo Martinez Martinez,Ecuaciones Diferenciales,8.0,7.36,1
+Rafael Alejandro Ramirez Contreras,Ecuaciones Diferenciales,8.0,7.36,1
+David Romero Mendoza,Ecuaciones Diferenciales,8.0,7.36,1
+Wilfredo Corominas Zabala,Ecuaciones Diferenciales,8.0,7.36,1
+Fanny Rojas Tello,Estatica,10.0,7.37,1
+Calisto Bolanos Bravo,Estatica,10.0,7.37,1
+Alexandra Navarrete Ramirez,Estatica,10.0,7.37,1
+Vania Castellanos Juarez,Estatica,9.0,7.37,1
+Rosalva Vargas,Estatica,9.0,7.37,1
+Alberto Herrera Cortez,Estatica,9.0,7.37,1
+Karina Matamoroz,Estatica,9.0,7.37,1
+Alexdr Nikolenko,Estatica,9.0,7.37,1
+Javier Cruz Rojas,Estatica,9.0,7.37,1
+Hugo Martinez Martinez,Estatica,9.0,7.37,1
+Jorge Jimenez Palma,Estatica,8.0,7.37,1
+Juan Jose Ballesteros Aguirre,Estatica,8.0,7.37,1
+Wilfredo Corominas Zabala,Estatica,8.0,7.37,1
+Carlos Juarez David,Estatica,8.0,7.37,1
+Rafael Alejandro Ramirez Contreras,Estatica,8.0,7.37,1
+Rosalva Vargas,Estructura de Programacion de Computadoras,10.0,7.8,1
+Ruben Arturo Hernandez Rosas,Estructura de Programacion de Computadoras,10.0,7.8,1
+David Romero Mendoza,Estructura de Programacion de Computadoras,10.0,7.8,1
+Anastasia Cruz Salazar,Estructura de Programacion de Computadoras,9.0,7.8,1
+Diego Luz Alvares,Estructura de Programacion de Computadoras,9.0,7.8,1
+Daiara Saldana,Estructura de Programacion de Computadoras,9.0,7.8,1
+Alexdr Nikolenko,Estructura de Programacion de Computadoras,9.0,7.8,1
+Jorge Jimenez Palma,Estructura de Programacion de Computadoras,9.0,7.8,1
+Alexandra Navarrete Ramirez,Estructura de Programacion de Computadoras,9.0,7.8,1
+Carlos Juarez David,Estructura de Programacion de Computadoras,9.0,7.8,1
+Vania Castellanos Juarez,Estructura de Programacion de Computadoras,8.0,7.8,1
+Maria Barriga Sandoval,Estructura de Programacion de Computadoras,8.0,7.8,1
+Wilfredo Corominas Zabala,Estructura de Programacion de Computadoras,8.0,7.8,1
+Nico Verdugo Blanes,Estructura de Programacion de Computadoras,8.0,7.8,1
+Javier Cruz Rojas,Estructura de Programacion de Computadoras,8.0,7.8,1
+Javier Aguirre Cruz,Estructura de Programacion de Computadoras,8.0,7.8,1
+Wilfredo Corominas Zabala,Estructuras Discretas,10.0,7.4,1
+Jorge Jimenez Palma,Estructuras Discretas,9.0,7.4,1
+Maria Barriga Sandoval,Estructuras Discretas,9.0,7.4,1
+Alexdr Nikolenko,Estructuras Discretas,8.0,7.4,1
+Ruben Arturo Hernandez Rosas,Estructuras Discretas,8.0,7.4,1
+Javier Aguirre Cruz,Estructuras Discretas,8.0,7.4,1
+Alberto Herrera Cortez,Estructuras Discretas,8.0,7.4,1
+Kike Vicens Bou,Estructuras Discretas,8.0,7.4,1
+Lupita de Esteban,Estructuras Discretas,8.0,7.4,1
+Rafael Alejandro Ramirez Contreras,Estructuras Discretas,8.0,7.4,1
+Christian Oliva Jimenez,Estructuras Discretas,8.0,7.4,1
+Daiara Saldana,Estructuras Discretas,8.0,7.4,1
+Paulina Arino Portillo,Estructuras Discretas,8.0,7.4,1
+Vania Castellanos Juarez,Etica Profesional,9.0,6.45,1
+Karina Matamoroz,Etica Profesional,9.0,6.45,1
+Anastasia Cruz Salazar,Etica Profesional,9.0,6.45,1
+Diego Luz Alvares,Etica Profesional,7.0,6.45,1
+Nico Verdugo Blanes,Etica Profesional,7.0,6.45,1
+Christian Oliva Jimenez,Etica Profesional,7.0,6.45,1
+Javier Cruz Rojas,Etica Profesional,7.0,6.45,1
+David Romero Mendoza,Etica Profesional,7.0,6.45,1
+Dalila Sanmiguel Pedrosa,Etica Profesional,7.0,6.45,1
+Javier Aguirre Cruz,Geometria Analitica,10.0,7.35,1
+Christian Oliva Jimenez,Geometria Analitica,10.0,7.35,1
+Juliana Jodar,Geometria Analitica,10.0,7.35,1
+Jorge Jimenez Palma,Geometria Analitica,10.0,7.35,1
+Vania Castellanos Juarez,Geometria Analitica,10.0,7.35,1
+David Romero Mendoza,Geometria Analitica,10.0,7.35,1
+Paulina Arino Portillo,Geometria Analitica,9.0,7.35,1
+Eugenio Galan Giron,Geometria Analitica,9.0,7.35,1
+Kike Vicens Bou,Geometria Analitica,8.0,7.35,1
+Javier Cruz Rojas,Geometria Analitica,8.0,7.35,1
+Rafael Alejandro Ramirez Contreras,Geometria Analitica,8.0,7.35,1
+Diego Luz Alvares,Geometria Analitica,8.0,7.35,1
+Adelina Garcia Sanchez,Geometria Analitica,8.0,7.35,1
+Alberto Herrera Cortez,Geometria Analitica,8.0,7.35,1
+Ruben Arturo Hernandez Rosas,Historia de la Ingenieria,10.0,7.32,1
+Maria Barriga Sandoval,Historia de la Ingenieria,10.0,7.32,1
+Diego Luz Alvares,Historia de la Ingenieria,10.0,7.32,1
+Jorge Jimenez Palma,Historia de la Ingenieria,10.0,7.32,1
+Alexdr Nikolenko,Historia de la Ingenieria,9.0,7.32,1
+Rosalva Vargas,Historia de la Ingenieria,9.0,7.32,1
+Wilfredo Corominas Zabala,Historia de la Ingenieria,9.0,7.32,1
+Javier Aguirre Cruz,Historia de la Ingenieria,9.0,7.32,1
+Paulina Arino Portillo,Historia de la Ingenieria,9.0,7.32,1
+Karina Matamoroz,Historia de la Ingenieria,8.0,7.32,1
+Christian Oliva Jimenez,Historia de la Ingenieria,8.0,7.32,1
+Dalila Sanmiguel Pedrosa,Ingenieria de Software,10.0,7.28,1
+Jorge Jimenez Palma,Ingenieria de Software,10.0,7.28,1
+Karina Matamoroz,Ingenieria de Software,9.0,7.28,1
+Alberto Herrera Cortez,Ingenieria de Software,9.0,7.28,1
+Javier Cruz Rojas,Ingenieria de Software,9.0,7.28,1
+David Romero Mendoza,Ingenieria de Software,9.0,7.28,1
+Vania Castellanos Juarez,Ingenieria de Software,9.0,7.28,1
+Rosalva Vargas,Ingenieria de Software,8.0,7.28,1
+Lupita de Esteban,Ingenieria de Software,8.0,7.28,1
+Nico Verdugo Blanes,Ingenieria de Software,8.0,7.28,1
+Daiara Saldana,Ingenieria de Software,8.0,7.28,1
+Rafael Alejandro Ramirez Contreras,Ingenieria de Software,8.0,7.28,1
+Alexandra Navarrete Ramirez,Ingenieria de Software,8.0,7.28,1
+Ruben Arturo Hernandez Rosas,Introduccion a la Economia,10.0,7.23,1
+Hugo Martinez Martinez,Introduccion a la Economia,10.0,7.23,1
+Maria Barriga Sandoval,Introduccion a la Economia,10.0,7.23,1
+Jorge Jimenez Palma,Introduccion a la Economia,10.0,7.23,1
+Daiara Saldana,Introduccion a la Economia,10.0,7.23,1
+Paulina Arino Portillo,Introduccion a la Economia,9.0,7.23,1
+Alexdr Nikolenko,Introduccion a la Economia,9.0,7.23,1
+Calisto Bolanos Bravo,Introduccion a la Economia,9.0,7.23,1
+Fanny Rojas Tello,Introduccion a la Economia,9.0,7.23,1
+Wilfredo Corominas Zabala,Introduccion a la Economia,8.0,7.23,1
+Lupita de Esteban,Introduccion a la Economia,8.0,7.23,1
+Eugenio Galan Giron,Introduccion a la Economia,8.0,7.23,1
+David Romero Mendoza,Introduccion a la Economia,8.0,7.23,1
+Diego Luz Alvares,Introduccion a la Economia,8.0,7.23,1
+Kike Vicens Bou,Lenguajes de Programacion,10.0,7.6,1
+Nico Verdugo Blanes,Lenguajes de Programacion,10.0,7.6,1
+Anastasia Cruz Salazar,Lenguajes de Programacion,10.0,7.6,1
+Alexdr Nikolenko,Lenguajes de Programacion,10.0,7.6,1
+David Romero Mendoza,Lenguajes de Programacion,9.0,7.6,1
+Javier Aguirre Cruz,Lenguajes de Programacion,8.0,7.6,1
+Fanny Rojas Tello,Lenguajes de Programacion,8.0,7.6,1
+Daiara Saldana,Lenguajes de Programacion,8.0,7.6,1
+Jorge Jimenez Palma,Lenguajes de Programacion,8.0,7.6,1
+Maria Barriga Sandoval,Lenguajes de Programacion,8.0,7.6,1
+Kike Vicens Bou,Lenguajes Formales y Automatas,10.0,7.5,1
+Diego Luz Alvares,Lenguajes Formales y Automatas,10.0,7.5,1
+Fanny Rojas Tello,Lenguajes Formales y Automatas,9.0,7.5,1
+Jorge Jimenez Palma,Lenguajes Formales y Automatas,9.0,7.5,1
+Javier Aguirre Cruz,Lenguajes Formales y Automatas,9.0,7.5,1
+Nico Verdugo Blanes,Lenguajes Formales y Automatas,9.0,7.5,1
+Ruben Arturo Hernandez Rosas,Lenguajes Formales y Automatas,9.0,7.5,1
+Dalila Sanmiguel Pedrosa,Lenguajes Formales y Automatas,8.0,7.5,1
+Karina Matamoroz,Lenguajes Formales y Automatas,8.0,7.5,1
+Diego Luz Alvares,Literatura Hispanoamericana Contemporanea,10.0,6.84,1
+Alexandra Navarrete Ramirez,Literatura Hispanoamericana Contemporanea,9.0,6.84,1
+Nico Verdugo Blanes,Literatura Hispanoamericana Contemporanea,9.0,6.84,1
+Fanny Rojas Tello,Literatura Hispanoamericana Contemporanea,9.0,6.84,1
+Kike Vicens Bou,Literatura Hispanoamericana Contemporanea,9.0,6.84,1
+Alberto Herrera Cortez,Literatura Hispanoamericana Contemporanea,8.0,6.84,1
+Lupita de Esteban,Literatura Hispanoamericana Contemporanea,8.0,6.84,1
+Alexdr Nikolenko,Literatura Hispanoamericana Contemporanea,8.0,6.84,1
+Jorge Jimenez Palma,Literatura Hispanoamericana Contemporanea,8.0,6.84,1
+David Romero Mendoza,Literatura Hispanoamericana Contemporanea,7.0,6.84,1
+Rafael Alejandro Ramirez Contreras,Literatura Hispanoamericana Contemporanea,7.0,6.84,1
+Vania Castellanos Juarez,Literatura Hispanoamericana Contemporanea,7.0,6.84,1
+Fanny Rojas Tello,Micro Computadoras,10.0,7.1,1
+Anastasia Cruz Salazar,Micro Computadoras,10.0,7.1,1
+Dalila Sanmiguel Pedrosa,Micro Computadoras,10.0,7.1,1
+Christian Oliva Jimenez,Micro Computadoras,9.0,7.1,1
+Alberto Herrera Cortez,Micro Computadoras,8.0,7.1,1
+Kike Vicens Bou,Micro Computadoras,8.0,7.1,1
+David Romero Mendoza,Micro Computadoras,8.0,7.1,1
+Javier Cruz Rojas,Micro Computadoras,8.0,7.1,1
+Ruben Arturo Hernandez Rosas,Micro Computadoras,8.0,7.1,1
+Alexandra Navarrete Ramirez,Probabilidad y Estadistica,10.0,7.84,1
+Daiara Saldana,Probabilidad y Estadistica,10.0,7.84,1
+Anastasia Cruz Salazar,Probabilidad y Estadistica,10.0,7.84,1
+Dalila Sanmiguel Pedrosa,Probabilidad y Estadistica,10.0,7.84,1
+Paulina Arino Portillo,Probabilidad y Estadistica,10.0,7.84,1
+Alberto Herrera Cortez,Probabilidad y Estadistica,9.0,7.84,1
+David Romero Mendoza,Probabilidad y Estadistica,9.0,7.84,1
+Carlos Juarez David,Probabilidad y Estadistica,9.0,7.84,1
+Fanny Rojas Tello,Probabilidad y Estadistica,9.0,7.84,1
+Diego Luz Alvares,Probabilidad y Estadistica,9.0,7.84,1
+Ruben Arturo Hernandez Rosas,Probabilidad y Estadistica,8.0,7.84,1
+Wilfredo Corominas Zabala,Probabilidad y Estadistica,8.0,7.84,1
+Maria Barriga Sandoval,Probabilidad y Estadistica,8.0,7.84,1
+Rafael Alejandro Ramirez Contreras,Probabilidad y Estadistica,8.0,7.84,1
+Rosalva Vargas,Probabilidad y Estadistica,8.0,7.84,1
+Christian Oliva Jimenez,Probabilidad y Estadistica,8.0,7.84,1
+Alexandra Navarrete Ramirez,Programacion Avanzada,10.0,7.93,1
+Eugenio Galan Giron,Programacion Avanzada,10.0,7.93,1
+Kike Vicens Bou,Programacion Avanzada,10.0,7.93,1
+Vania Castellanos Juarez,Programacion Avanzada,10.0,7.93,1
+Alexdr Nikolenko,Programacion Avanzada,10.0,7.93,1
+Jorge Jimenez Palma,Programacion Avanzada,10.0,7.93,1
+Daiara Saldana,Programacion Avanzada,10.0,7.93,1
+Hugo Martinez Martinez,Programacion Avanzada,10.0,7.93,1
+Ruben Arturo Hernandez Rosas,Programacion Avanzada,10.0,7.93,1
+Calisto Bolanos Bravo,Programacion Avanzada,9.0,7.93,1
+Paulina Arino Portillo,Programacion Avanzada,9.0,7.93,1
+Javier Aguirre Cruz,Programacion Avanzada,9.0,7.93,1
+Rosalva Vargas,Programacion Avanzada,9.0,7.93,1
+Karina Matamoroz,Programacion Avanzada,8.0,7.93,1
+Wilfredo Corominas Zabala,Programacion Avanzada,8.0,7.93,1
+David Romero Mendoza,Programacion Avanzada,8.0,7.93,1
+Rafael Alejandro Ramirez Contreras,Programacion Avanzada,8.0,7.93,1
+David Romero Mendoza,Quimica,10.0,7.9,1
+Javier Cruz Rojas,Quimica,10.0,7.9,1
+Ruben Arturo Hernandez Rosas,Quimica,10.0,7.9,1
+Javier Aguirre Cruz,Quimica,10.0,7.9,1
+Adelina Garcia Sanchez,Quimica,10.0,7.9,1
+Wilfredo Corominas Zabala,Quimica,10.0,7.9,1
+Daiara Saldana,Quimica,10.0,7.9,1
+Rafael Alejandro Ramirez Contreras,Quimica,10.0,7.9,1
+Lupita de Esteban,Quimica,9.0,7.9,1
+Carlos Juarez David,Quimica,9.0,7.9,1
+Vania Castellanos Juarez,Quimica,9.0,7.9,1
+Nico Verdugo Blanes,Quimica,9.0,7.9,1
+Dalila Sanmiguel Pedrosa,Quimica,9.0,7.9,1
+Christian Oliva Jimenez,Quimica,8.0,7.9,1
+Karina Matamoroz,Quimica,8.0,7.9,1
+Rosalva Vargas,Quimica,8.0,7.9,1
+Eugenio Galan Giron,Quimica,8.0,7.9,1
+Alexandra Navarrete Ramirez,Quimica,8.0,7.9,1
+Dalila Sanmiguel Pedrosa,Redes de Datos,10.0,7.46,1
+Vania Castellanos Juarez,Redes de Datos,9.0,7.46,1
+Alberto Herrera Cortez,Redes de Datos,9.0,7.46,1
+Anastasia Cruz Salazar,Redes de Datos,9.0,7.46,1
+Rosalva Vargas,Redes de Datos,9.0,7.46,1
+Karina Matamoroz,Redes de Datos,8.0,7.46,1
+Javier Aguirre Cruz,Sistemas de Comunicacion,10.0,7.15,1
+David Romero Mendoza,Sistemas de Comunicacion,10.0,7.15,1
+Dalila Sanmiguel Pedrosa,Sistemas de Comunicacion,10.0,7.15,1
+Kike Vicens Bou,Sistemas de Comunicacion,9.0,7.15,1
+Nico Verdugo Blanes,Sistemas de Comunicacion,8.0,7.15,1
+Diego Luz Alvares,Sistemas de Comunicacion,8.0,7.15,1
+Alexdr Nikolenko,Sistemas de Comunicacion,8.0,7.15,1
+Wilfredo Corominas Zabala,Sistemas de Comunicacion,8.0,7.15,1
+Maria Barriga Sandoval,Sistemas de Comunicacion,8.0,7.15,1
+Nico Verdugo Blanes,Sistemas Operativos,10.0,7.44,1
+Rafael Alejandro Ramirez Contreras,Sistemas Operativos,10.0,7.44,1
+Carlos Juarez David,Sistemas Operativos,10.0,7.44,1
+Maria Barriga Sandoval,Sistemas Operativos,9.0,7.44,1
+Paulina Arino Portillo,Sistemas Operativos,9.0,7.44,1
+Vania Castellanos Juarez,Sistemas Operativos,9.0,7.44,1
+Dalila Sanmiguel Pedrosa,Sistemas Operativos,9.0,7.44,1
+Fanny Rojas Tello,Sistemas Operativos,9.0,7.44,1
+Anastasia Cruz Salazar,Sistemas Operativos,8.0,7.44,1
+Javier Aguirre Cruz,Sistemas Operativos,8.0,7.44,1
+Alexdr Nikolenko,Sistemas Operativos,8.0,7.44,1
+Alexandra Navarrete Ramirez,Sistemas Operativos,8.0,7.44,1
+Vania Castellanos Juarez,Termodinamica,10.0,7.04,1
+Maria Barriga Sandoval,Termodinamica,10.0,7.04,1
+Rosalva Vargas,Termodinamica,10.0,7.04,1
+Nico Verdugo Blanes,Termodinamica,9.0,7.04,1
+Paulina Arino Portillo,Termodinamica,9.0,7.04,1
+Kike Vicens Bou,Termodinamica,9.0,7.04,1
+Calisto Bolanos Bravo,Termodinamica,9.0,7.04,1
+Karina Matamoroz,Termodinamica,8.0,7.04,1
+David Romero Mendoza,Termodinamica,8.0,7.04,1
+Diego Luz Alvares,Termodinamica,8.0,7.04,1
