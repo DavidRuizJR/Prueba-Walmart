@@ -81,7 +81,7 @@ def ejercicio2():
 # -------------------- MAIN --------------------
 if __name__ == "__main__":
     try:
-        #ejercicio1()
+        ejercicio1()
         ejercicio2()
         logging.info("✅ Ejercicios completados correctamente.")
     except Exception as e:
