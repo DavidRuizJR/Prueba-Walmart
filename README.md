@@ -20,7 +20,6 @@ Incluye la carga de datos desde CSVs a PostgreSQL, consultas SQL para análisis 
 - `requirements.txt` → Dependencias de Python.
 - `.gitignore` → Ignora archivos temporales y entorno virtual.
 - `Dockerfile` o `docker-compose.yml` → Opcional, para levantar PostgreSQL fácilmente.
-
 ---
 
 ## Requisitos
@@ -33,3 +32,9 @@ Instalar dependencias:
 
 ```bash
 pip install -r requirements.txt
+
+-  Si usas Docker:
+docker-compose up -d
+
+
+
